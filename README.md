@@ -24,7 +24,7 @@ This repository contains step-by-step instructions, configuration notes, and bes
 
 ---
 
-## 📌 Overview
+## 📌Overview
 
 This project explains how to:
 
@@ -38,7 +38,7 @@ This project explains how to:
 
 ---
 
-## 📂 Requirements
+## 📂Requirements
 
 | Requirement | Details |
 |---|---|
@@ -50,7 +50,7 @@ This project explains how to:
 
 ---
 
-## 🚀 Quick Start
+## 🚀Quick Start
 
 1. **Connect your external drive** to your Mac
 2. **Enable File Sharing** in System Settings → Sharing
@@ -61,7 +61,7 @@ This project explains how to:
 
 ---
 
-## 🔧 Installation & Setup
+## 🔧Installation & Setup
 
 ### Step 1 — Connect & Prepare the External Drive
 
@@ -90,7 +90,7 @@ Go to: **System Settings → Wi-Fi → Details → IP Address**
 
 ---
 
-## 🌐 Usage
+## 🌐Usage
 
 ### Accessing from Another Mac
 
@@ -114,7 +114,7 @@ Go to: **System Settings → Wi-Fi → Details → IP Address**
 
 ---
 
-## 🌍 Remote Access Options
+## 🌍Remote Access Options
 
 If you need to access your external drive from outside your home network:
 
@@ -135,7 +135,7 @@ If you need to access your external drive from outside your home network:
 
 ---
 
-## 🔐 Security Best Practices
+## 🔐Security Best Practices
 
 ✅ **Do's:**
 - Use strong, unique macOS account passwords
@@ -154,7 +154,7 @@ If you need to access your external drive from outside your home network:
 
 ---
 
-## 🛠 Troubleshooting
+## 🛠Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -169,7 +169,7 @@ If you need to access your external drive from outside your home network:
 
 ---
 
-## 📚 Additional Resources
+## 📚Additional Resources
 
 - [Apple File Sharing Guide](https://support.apple.com/en-us/HT204445)
 
@@ -183,7 +183,7 @@ If you need to access your external drive from outside your home network:
 
 ---
 
-## 📝 License
+## 📝License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
@@ -191,7 +191,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️Disclaimer
 
 This guide is provided "as-is" for educational and personal use. While we've made efforts to ensure accuracy, we are not responsible for:
 - Data loss or corruption
