@@ -6,7 +6,7 @@ This repository contains instructions, configuration notes, and best practices f
 
 ---
 
-## ** Overview**
+## **Overview**
 This project explains how to:
 
 - Use an **external hard drive** as shared storage  
