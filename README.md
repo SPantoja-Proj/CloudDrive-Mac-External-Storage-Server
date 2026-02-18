@@ -59,7 +59,6 @@ This project explains how to:
 4. **Access from network** using SMB protocol
 5. **(Optional)** Set up VPN for remote access
 
-See [Installation & Setup](#installation--setup) for detailed steps.
 
 ---
 
