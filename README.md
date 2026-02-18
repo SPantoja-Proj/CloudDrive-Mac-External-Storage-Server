@@ -20,7 +20,6 @@ This repository contains step-by-step instructions, configuration notes, and bes
 - [Remote Access Options](#remote-access-options)
 - [Security Best Practices](#security-best-practices)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -173,20 +172,8 @@ If you need to access your external drive from outside your home network:
 ## 📚 Additional Resources
 
 - [Apple File Sharing Guide](https://support.apple.com/en-us/HT204445)
-- [SMB Protocol Documentation](https://en.wikipedia.org/wiki/Server_Message_Block)
-- [macOS Security Best Practices](https://support.apple.com/en-us/HT204344)
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions! To contribute:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/improvement`)
-3. **Make** your changes with clear commit messages
-4. **Test** your changes thoroughly
-5. **Submit** a pull request with a detailed description
 
 ### Guidelines
 - Keep explanations clear and beginner-friendly
