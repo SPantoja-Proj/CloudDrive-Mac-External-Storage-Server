@@ -19,7 +19,7 @@ This setup is ideal for home labs, small teams, or personal cloud storage withou
 
 ---
 
-## **📂 Requirements**
+## **📂Requirements**
 - macOS device (Intel or Apple Silicon)  
 - External hard drive (HDD or SSD) formatted as:
   - APFS  
@@ -43,7 +43,7 @@ This setup is ideal for home labs, small teams, or personal cloud storage withou
 
 ---
 
-## **🔧 Step 1 — Connect & Prepare the External Drive**
+## **🔧Step 1 — Connect & Prepare the External Drive**
 1. Plug in your external hard drive.  
 2. Open **Disk Utility** if you need to reformat it.  
 3. Rename the drive (optional but recommended).  
@@ -51,7 +51,7 @@ This setup is ideal for home labs, small teams, or personal cloud storage withou
 
 ---
 
-## **📡 Step 2 — Enable File Sharing on macOS**
+## **📡Step 2 — Enable File Sharing on macOS**
 1. Open **System Settings**  
 2. Go to **General → Sharing**  
 3. Enable **File Sharing**  
@@ -64,7 +64,7 @@ This setup is ideal for home labs, small teams, or personal cloud storage withou
 
 ---
 
-## **🌐 Step 3 — Accessing the Shared Drive on Your Network**
+## **🌐Step 3 — Accessing the Shared Drive on Your Network**
 ### **From another Mac**
 1. Open **Finder**  
 2. Press `Command + K`  
@@ -88,7 +88,7 @@ Go to:
 
 ---
 
-## **🌍 Optional — Enable Remote Access**
+## **🌍Optional — Enable Remote Access**
 If you want to access your external drive from outside your home network, you can use:
 
 ### **Option A — iCloud Drive + Shared Folder Sync**
@@ -106,7 +106,7 @@ If you want to access your external drive from outside your home network, you ca
 
 ---
 
-## **🔐 Security Best Practices**
+## **🔐Security Best Practices**
 - Use strong macOS account passwords  
 - Disable Guest access  
 - Keep macOS updated  
@@ -115,7 +115,7 @@ If you want to access your external drive from outside your home network, you ca
 
 ---
 
-## **🛠 Troubleshooting**
+## **🛠Troubleshooting**
 | Issue | Solution |
 |-------|----------|
 | Cannot connect from Windows | Ensure SMB is enabled in Sharing settings |
