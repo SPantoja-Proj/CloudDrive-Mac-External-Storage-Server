@@ -30,6 +30,11 @@ This setup is ideal for home labs, small teams, or personal cloud storage withou
 
 ---
 
+## Table of Contents
+
+
+---
+
 ## **🔧 Step 1 — Connect & Prepare the External Drive**
 1. Plug in your external hard drive.  
 2. Open **Disk Utility** if you need to reformat it.  
