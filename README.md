@@ -20,7 +20,6 @@ This repository contains step-by-step instructions, configuration notes, and bes
 - [Remote Access Options](#remote-access-options)
 - [Security Best Practices](#security-best-practices)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ---
 
@@ -180,14 +179,6 @@ If you need to access your external drive from outside your home network:
 - Include screenshots or diagrams where helpful
 - Test on both Intel and Apple Silicon Macs
 - Update the Table of Contents if adding sections
-
----
-
-## 📝License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-**Attribution:** If you use this guide, a link back to this repository is appreciated!
 
 ---
 
