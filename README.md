@@ -32,6 +32,14 @@ This setup is ideal for home labs, small teams, or personal cloud storage withou
 
 ## Table of Contents
 
+- [Overview](#overview)
+- [Requirements](#requirements)
+- [Step 1 — Connect & Prepare the External Drive](#step-1--connect--prepare-the-external-drive)
+- [Step 2 — Enable File Sharing on macOS](#step-2--enable-file-sharing-on-macos)
+- [Step 3 — Accessing the Shared Drive on Your Network](#step-3--accessing-the-shared-drive-on-your-network)
+- [Optional — Enable Remote Access](#optional--enable-remote-access)
+- [Security Best Practices](#security-best-practices)
+- [Troubleshooting](#troubleshooting)
 
 ---
 
